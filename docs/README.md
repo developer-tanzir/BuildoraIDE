@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="140" alt="Buildora logo">
+  <img src="logo.png" width="140" alt="Buildora logo">
 </p>
 
 <h1 align="center">Buildora</h1>
